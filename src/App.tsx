@@ -165,7 +165,7 @@ function App() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center bg-background p-4 py-12">
       <h1 className="mb-8 text-4xl font-bold tracking-tight">
-        Risiko Dice Calculator
+        Risk Dice Calculator
       </h1>
       <div className="space-y-4 w-full max-w-2xl">
         <Card className="p-6">
