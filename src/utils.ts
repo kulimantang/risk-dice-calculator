@@ -4,10 +4,6 @@ export type OddsResult = {
   attackerLoosesAll: number;
 };
 
-type Roll = {
-  values: number[];
-};
-
 export function calculateOdds(
   attackerValues: number[],
   defenderNumberOfDice: number
